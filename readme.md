@@ -3,7 +3,7 @@
 ## Day 1 – Introduction to Terraform
                                           
 ### Evolution of Deployment  
-- **Traditional Deployment**
+- **Traditional Deployment**  
 - **Cloud Deployment**
 - **Automated Deployment**
 - **Infrastructure as Code (IaC)**

@@ -2,7 +2,7 @@
 
 ## Day 1 – Introduction to Terraform
                                         
-### Evolution of Deployment
+### Evolution of Deployment  
 - **Traditional Deployment**
 - **Cloud Deployment**
 - **Automated Deployment**

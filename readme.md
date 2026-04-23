@@ -1,5 +1,5 @@
 # Terraform – Notes & Practical Guide
-
+                
 ## Day 1 – Introduction to Terraform
                                           
 ### Evolution of Deployment  

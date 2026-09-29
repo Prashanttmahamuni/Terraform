@@ -15,7 +15,7 @@
 IaC enables you to codify your entire infrastructure using configuration files.   
            
 ### IaC Categories
-
+  
 | Category                 | Purpose                                   | Tools                          |
 |---------------------------|-------------------------------------------|--------------------------------|
 | **Configuration Management** | Install & manage software on existing infra | Ansible, Puppet, SaltStack     |

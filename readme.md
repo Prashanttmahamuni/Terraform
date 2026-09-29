@@ -12,7 +12,7 @@
         
 ## Infrastructure as Code (IaC)          
 
-IaC enables you to codify your entire infrastructure using configuration files.
+IaC enables you to codify your entire infrastructure using configuration files.   
     
 ### IaC Categories
 
